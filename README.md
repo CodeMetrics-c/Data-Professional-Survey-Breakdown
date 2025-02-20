@@ -11,7 +11,7 @@ This Power BI dashboard provides insights into survey responses from data profes
 - **Work-Life Balance & Salary Happiness:** Gauges overall satisfaction in the field.  
 
 ## 📷 Dashboard Preview  
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## 🛠 Tools Used  
 - 🟢 **Power BI** – For creating interactive visualizations  
